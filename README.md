@@ -16,14 +16,15 @@ Pada program Studi Independen Data Analytics di PT Zona Edukasi Nusantara (Agust
 Tools 🔧
 ---------------------------------------------------------------------------------------------------------------------------------
 - Chrome DevTools - untuk pengujian yang lebih baik dan meningkatkan laporan bug
-- Google Drive - menyimpan data
+- Google Drive
 - Git - untuk kerja tim yang lebih baik dalam pengembangan dan kontrol versi perangkat lunak
 - GitHub - mendukung Git dan menyiapkan repositori saya
-- XAMPP - latihan SQL
-- Postman - pengujian API
-- PyCharm - IDE untuk Python
-- Selenium
-- Visual Studio Code - latihan HTML dan CSS
+- XAMPP
+- Postman
+- PyCharm
+- Selenium IDE
+- Visual Studio Code
+- HTML dan CSS
 
 Soft skills 📁
 ---------------------------------------------------------------------------------------------------------------------------------
