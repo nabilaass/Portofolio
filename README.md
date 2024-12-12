@@ -49,3 +49,9 @@ Certificates 🏆
 ---------------------------------------------------------------------------------------------------------------------------------
 - [Software Tester & Implementator Internship](https://www.linkedin.com/in/nabila-asshafa-putri/details/certifications/1727283840665/single-media-viewer/?profileId=ACoAAD0EPVoB-_-I78JZ-ocTBUXk5Y80zKenHIE)
 - [Studi Independen Data Analytics](https://drive.google.com/file/d/1x69gT9w_VMrFSUZYvxYhU_8XVXbGz2Eg/view)
+
+
+
+
+Projects 💡
+---------------------------------------------------------------------------------------------------------------------------------
