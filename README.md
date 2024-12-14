@@ -1,5 +1,5 @@
 # Portofolio
-My QA portofolio
+My portofolio
 
 About Me 👋
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -55,3 +55,9 @@ Certificates 🏆
 
 Projects 💡
 ---------------------------------------------------------------------------------------------------------------------------------
+- [Testing Sistem Informasi Manajemen Rumah Sakit](https://github.com/nabilaass/Internship-Software-Tester-Implementator).
+- [Sistem Klasifikasi](https://github.com/nabilaass/Sistem-Klasifikasi-Penyakit-Daun-Cabai-Berbasis-Website-Menggunakan-Algoritma-CNN).
+- [Sistem Deteksi Kecurangan Mencontek dalam Ujian](https://github.com/nabilaass/Sistem-Monitoring-Deteksi-Kecurangan-Mencontek-dalam-Ujian-Berbasis-Mobile).
+- [Home Credit Analyst](https://github.com/nabilaass/MSIB_ZENIUS_Data-Analytics).
+- [Website CRUD](https://github.com/nabilaass/Website-CRUD-Pegawai).
+- [Analisis Data Mahasiswa](https://github.com/nabilaass/Analisis-Data-Mahasiswa-Politeknik-Harapan-Bersama-Menggunakan-Metode-Simple-Random-Sample-SRS-)
