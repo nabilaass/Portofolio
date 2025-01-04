@@ -55,6 +55,7 @@ Certificates 🏆
 
 Projects 💡
 ---------------------------------------------------------------------------------------------------------------------------------
+- [Test App - Reservasi Restoran Online](https://github.com/nabilaass/Testing-App-Projects/tree/main/Risol%20-%20Reservasi%20Restoran%20Online) .
 - [Testing Sistem Informasi Manajemen Rumah Sakit](https://github.com/nabilaass/Internship-Software-Tester-Implementator).
 - [Sistem Klasifikasi](https://github.com/nabilaass/Sistem-Klasifikasi-Penyakit-Daun-Cabai-Berbasis-Website-Menggunakan-Algoritma-CNN).
 - [Sistem Deteksi Kecurangan Mencontek dalam Ujian](https://github.com/nabilaass/Sistem-Monitoring-Deteksi-Kecurangan-Mencontek-dalam-Ujian-Berbasis-Mobile).
