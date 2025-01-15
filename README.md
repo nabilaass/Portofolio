@@ -15,14 +15,18 @@ Pada program Studi Independen Data Analytics di PT Zona Edukasi Nusantara (Agust
 
 Tools 🔧
 ---------------------------------------------------------------------------------------------------------------------------------
-- Chrome DevTools - untuk pengujian yang lebih baik dan meningkatkan laporan bug
 - Google Drive
 - Git - untuk kerja tim yang lebih baik dalam pengembangan dan kontrol versi perangkat lunak
 - GitHub - mendukung Git dan menyiapkan repositori saya
 - XAMPP
 - Postman
 - PyCharm
-- Selenium IDE
+- JMeter
+- Notion
+- Google Looker Studio
+- JIRA
+- Trello
+- Qase.io
 - Visual Studio Code
 - HTML dan CSS
 
@@ -36,7 +40,7 @@ Tech skills 💻
 ---------------------------------------------------------------------------------------------------------------------------------
 - SQL
 - Python
-- Pengetahuan dasar tentang model pengembangan perangkat lunak (waterfall, V-model, model iteratif dan inkremental, agile)
+- Pengetahuan dasar tentang model pengembangan perangkat lunak
 - Pengujian perangkat lunak
 - Membuat kasus uji (test cases)
 - Melaporkan bug
@@ -47,7 +51,7 @@ Tech skills 💻
 
 Certificates 🏆
 ---------------------------------------------------------------------------------------------------------------------------------
-- [QA Course](https://www.linkedin.com/in/nabila-asshafa-putri/details/certifications/1736251180905/single-media-viewer/?profileId=ACoAAD0EPVoB-_-I78JZ-ocTBUXk5Y80zKenHIE).
+- [Quality Assurance Course](https://www.linkedin.com/in/nabila-asshafa-putri/details/certifications/1736251180905/single-media-viewer/?profileId=ACoAAD0EPVoB-_-I78JZ-ocTBUXk5Y80zKenHIE).
 - [Software Tester & Implementator Internship](https://www.linkedin.com/in/nabila-asshafa-putri/details/certifications/1727283840665/single-media-viewer/?profileId=ACoAAD0EPVoB-_-I78JZ-ocTBUXk5Y80zKenHIE).
 - [Studi Independen Data Analytics](https://drive.google.com/file/d/1x69gT9w_VMrFSUZYvxYhU_8XVXbGz2Eg/view).
 
