@@ -63,9 +63,9 @@ Projects 💡
 ---------------------------------------------------------------------------------------------------------------------------------
 - [Test App - MRental PS](https://docs.google.com/spreadsheets/d/1fsfrUwjAo6BkJee8tMvrRAtg6FWK0KEGHhFNW-DYS3A/edit?usp=sharing) .
 - [QA Course - Test Wordpress](https://docs.google.com/spreadsheets/d/1KV_YTkxR5ZB25FuJZFfZCPdl3DKv9Rpx-B80WnlNL4U/edit?usp=sharing) .
-- [Test App - Reservasi Restoran Online](https://github.com/nabilaass/Testing-App-Projects/tree/main/Risol%20-%20Reservasi%20Restoran%20Online) .
+- [Test App - Reservasi Restoran Online {RISOL}](https://github.com/nabilaass/Testing-App-Projects/tree/main/Risol%20-%20Reservasi%20Restoran%20Online) .
 - [Testing Sistem Informasi Manajemen Rumah Sakit](https://github.com/nabilaass/Internship-Software-Tester-Implementator).
-- [Sistem Klasifikasi](https://github.com/nabilaass/Sistem-Klasifikasi-Penyakit-Daun-Cabai-Berbasis-Website-Menggunakan-Algoritma-CNN).
+- [CabaiCare - Sistem Klasifikasi](https://github.com/nabilaass/Sistem-Klasifikasi-Penyakit-Daun-Cabai-Berbasis-Website-Menggunakan-Algoritma-CNN).
 - [Sistem Deteksi Kecurangan Mencontek dalam Ujian](https://github.com/nabilaass/Sistem-Monitoring-Deteksi-Kecurangan-Mencontek-dalam-Ujian-Berbasis-Mobile).
 - [Home Credit Analyst](https://github.com/nabilaass/MSIB_ZENIUS_Data-Analytics).
 - [Website CRUD](https://github.com/nabilaass/Website-CRUD-Pegawai).
